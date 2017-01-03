@@ -1,0 +1,13 @@
+# Rules of .gitignore
+
+# Vim swap files
+*.swp
+
+# Python compiled files
+*.pyc
+*.pyo
+
+# All text files
+*.txt
+
+# Project specific files
