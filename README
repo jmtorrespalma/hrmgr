@@ -1,0 +1,36 @@
+
+                               Holiday Rummager
+
+What is it?
+-----------
+Holiday Rummager is intended to do an extensive research and study on flights,
+hotels and other offers on different days. This data extraction can be used
+later with any purpose, but it's something that I created as something
+personal to satisfy my traveling bug :)
+
+Latest version
+--------------
+The flight detective project is currently being hosted on Github, more
+concretely in the address https://github.com/jmtorrespalma/hrmgr.git,
+but the intention is to migrate it to a private server while maintaining this
+one as a mirror.
+
+Licensing
+---------
+See the file accompanying this project called COPYING.
+
+Documentation
+-------------
+The only sources of documentation are this file, along with the commented
+souce code and the provided templates but due to the simplicity of the tool,
+it's considered to be enough.
+
+Building
+--------
+TODO
+
+Usage
+-----
+TODO
+
+Copyright (C) 2017 Juan Manuel Torres Palma <j.m.torrespalma@gmail.com>
